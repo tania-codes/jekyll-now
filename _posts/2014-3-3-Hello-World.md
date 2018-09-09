@@ -1,10 +1,27 @@
 ---
 layout: post
-title: You're up and running!
+title: Blogging with jekyll
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+As I'm rebranding my website on wordpress I decided to move my blog to jekyll. 
+I've heard so many great things about Jekyll but my top reasons are:
+practice with git
+learning about markdown
+no databases
+static site
+using Liquid 
+Use my code editor  
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<h2>Research</h2>
+A couple of things to consider before diving in.
+
+<h2>setup</h2>
+Start here:
+
+<h2>Not bad so far...</h2>
+
+
+
