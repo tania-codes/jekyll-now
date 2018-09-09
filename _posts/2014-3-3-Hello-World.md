@@ -3,14 +3,14 @@ layout: post
 title: Blogging with jekyll
 ---
 
-As I'm rebranding my website on wordpress I decided to move my blog to jekyll. 
+As I'm rebranding my website on wordpress I decided to move my blog to _jekyll_. 
 I've heard so many great things about Jekyll but my top reasons are:
-practice with git
-learning about markdown
-no databases
-static site
-using Liquid 
-Use my code editor  
+*practice with git
+*learning about markdown
+*no databases
+*static site
+*using Liquid 
+*Use my code editor  
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
