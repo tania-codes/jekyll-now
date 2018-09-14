@@ -15,7 +15,7 @@ I've heard so many great things about Jekyll but my main reasons in using jekyll
 In this post I share my expereience and the great tips out there already to help you get started blogging with Jekyll.  
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/blogging with jekyll.PNG)
 
 <h2>Research</h2>
 A couple of things to consider before diving in.
