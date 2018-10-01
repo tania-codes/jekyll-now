@@ -15,8 +15,8 @@ I am an avid lover of learning and when I’m not busy with work i’m usually u
 
 ### More Information
 
-Need help with your website? I provide website care and development.
-Visit my website here: https://pixelsandcode.studio/
+Need help with your website? I offer website care and development just visit my site for more info.
+ https://pixelsandcode.studio/
 ### Contact me
 
 [tania@pixelsandcode.studio](mailto:tania@pixelsandcode.studio)
