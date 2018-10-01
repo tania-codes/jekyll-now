@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Blogging with jekyll
+title: Dont make me think
 ---
 
-As I'm rebranding my website on wordpress I decided to move my blog to _jekyll_. 
-I've heard so many great things about Jekyll but my main reasons in using jekyll are:
+Dont make me think <i>revisited</i>
+A must read if your doing anything in web development and design. 
+This book is oe of my favorite books to refer back to when dealing with a new client
+
+
 - practice with git
 - learning about markdown
 - no databases
