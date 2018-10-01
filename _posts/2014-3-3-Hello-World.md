@@ -3,11 +3,15 @@ layout: post
 title: Dont make me think
 ---
 
-Dont make me think <i>revisited</i>
-A must read if your doing anything in web development and design. 
-This book is oe of my favorite books to refer back to when dealing with a new client
+Dont make me think is a must read if your doing anything in web development and design.
+This book is one of my favorite books to refer back to when dealing with clients looking for redesigns or even just help with there website.
+
+I felt like i had a lot of DUH moments while reading this book, but reliaved what I dont do alot of is think more in dept as far as  reasoning on why things work a certain way and why others dont.
+This book provides examples of both working and not working situation for the web and mobile.
 
 
+
+The take aways:
 - practice with git
 - learning about markdown
 - no databases
