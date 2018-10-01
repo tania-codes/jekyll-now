@@ -19,4 +19,4 @@ Need help with your website? I provide website care and development.
 Visit my website here: https://pixelsandcode.studio/
 ### Contact me
 
-[email@domain.com](mailto:tania@pixelsandcode.studio)
+[tania@pixelsandcode.studio](mailto:tania@pixelsandcode.studio)
