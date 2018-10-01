@@ -3,12 +3,11 @@ layout: post
 title: Dont make me think
 ---
 
-[Dont make me think](https://amzn.to/2xNuhKk) is a must read if your doing anything in web development and design.
-This book is one of my favorite books to refer back to when dealing with clients looking for redesigns.
+[Dont make me think](https://amzn.to/2xNuhKk) is a must read if your doing anything in web development or design.
+This book is one of my favorite books to refer back to when dealing with clients looking for redesigns or help with their websites.
 
-I felt like i had a lot of DUH moments while reading this book, but relized what I dont do alot of is think about why things work a certain way and why others dont.
+While reading this book I felt like i had a lot of DUH moments, but relized what I dont do alot of is think about why things work a certain way and why others dont.
 This book provides examples of both working and not working situation for the web and mobile.
-
 
 The take aways:
 - practice with git
